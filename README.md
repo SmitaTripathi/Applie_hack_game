@@ -19,7 +19,7 @@ This simple Pygame project involves a player character trying to catch falling a
 
 ## Screen Shots:
 
-![Game Screenshot](screenshots/game_screenshot.png)
+![Game Screenshot](image.png)
 
 ## Gameplay:
 1. The player character is represented by a red circle.
