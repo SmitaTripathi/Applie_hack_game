@@ -1,2 +1,2 @@
-# Applie_hack_game
+# Apple_hack_game
 Made by using python
